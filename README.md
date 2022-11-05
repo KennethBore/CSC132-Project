@@ -16,9 +16,13 @@ There's also hand tracking but there isn't any functions assign to it yet.
 
 2. <code>cd CSC132-Project</code>
 
-3. <code>pip install -r requirements.txt</code>
+3. <code>python3.10 -m venv env</code>
 
-4. <code>python3 main.py</code>
+4. <code>source env/bin/activate</code>
+
+5. <code>pip install -r requirements.txt</code>
+
+6. <code>python3 main.py</code>
 
 ## Planned Features
 - Hand tracking features
