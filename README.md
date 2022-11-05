@@ -12,20 +12,13 @@ There's also hand tracking but there isn't any functions assign to it yet.
 - Python3 (https://www.python.org/downloads/)
 
 ## Installation and Usage
-1. ```python
-git clone https://github.com/KennethBore/CSC132-Project.git
-```
-2. ```python
-cd CSC132-Project
-```
+1. <code>git clone https://github.com/KennethBore/CSC132-Project.git</code>
 
-3. ```python
-pip install -r requirements.txt
-```
+2. <code>cd CSC132-Project</code>
 
-4. ```python
-python3 main.py
-```
+3. <code>pip install -r requirements.txt</code>
+
+4. <code>python3 main.py</code>
 
 ## Planned Features
 - Hand tracking features
